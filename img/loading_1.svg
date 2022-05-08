@@ -8,17 +8,17 @@
             begin="0s"
             repeatCount="indefinite"
             values="#00c4b6;
-                    #66dcd3;
-                    #ccf3f0;"/>
+                    #ccf3f0;
+                    #66dcd3;"/>
   </path>
   <path d="M256,195.048c-33.609,0-60.952,27.343-60.952,60.952s27.343,60.952,60.952,60.952
     s60.952-27.343,60.952-60.952S289.609,195.048,256,195.048z">      <animate
             attributeName="fill"
             dur="1s" 
-            begin="0.33s"
+            begin="0s"
             repeatCount="indefinite"
-            values="#00c4b6;
-                    #66dcd3;
+            values="#66dcd3;
+                    #00c4b6;
                     #ccf3f0;"/>
   </path>
   <path d="M451.048,195.048c-33.609,0-60.952,27.343-60.952,60.952s27.343,60.952,60.952,60.952
@@ -26,10 +26,10 @@
           <animate
             attributeName="fill"
             dur="1s" 
-            begin="0.67s"
+            begin="0s"
             repeatCount="indefinite"
-            values="#00c4b6;
+            values="#ccf3f0;
                     #66dcd3;
-                    #ccf3f0;"/>
+                    #00c4b6;"/>
   </path>
 </svg>
